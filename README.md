@@ -7,29 +7,37 @@ It includes a Jupyter notebook, visualizations, an interactive map, and a profes
 
 ## 🛠 Tools & Skills
 - Python (Pandas, Matplotlib, Folium)  
-- SQL & R (future extension)  
-- Tableau / Power BI (dashboard)  
+- SQL & R  
+- Tableau / Power BI  
 - Excel & Google Sheets  
 
 ---
 
 ## 📂 Project Files
 - 📒 Notebook: [`notebooks/crime_analysis_full.ipynb`](notebooks/crime_analysis_full.ipynb)  
-- 📑 Report (PDF): [`results/Liverpool_Crime_Analysis_Full_Report.pdf`](results/Liverpool_Crime_Analysis_Full_Report.pdf)  
+- 📑 Report (PDF): [`results/Liverpool_Crime_Analysis_Report_2022_2025_FULL.pdf`](results/Liverpool_Crime_Analysis_Report_2022_2025_FULL.pdf)  
 - 🗺️ Map (HTML): [`results/liverpool_crime_map.html`](results/liverpool_crime_map.html)  
 
 ---
 
 ## 🔎 Key Insights
-- 📈 Seasonal peaks in crime during summer.  
-- 🔐 Theft, violence, and anti-social behavior dominate incident types.  
-- 🗺️ Hotspots concentrated in **Central Liverpool (L1)** and **Toxteth (L8)**.  
+- 📈 Seasonal peaks in crime during summer (2022–2025).  
+- 🔐 Theft, violence, and anti-social behaviour dominate incident types.  
+- 🗺️ Hotspots in Central Liverpool (L1) and Toxteth (L8).  
 
 ---
 
 ## 📊 Quick Preview
 ![Monthly Crime Trend](results/crime_trends.png)  
 ![Year-over-Year](results/crime_yoy.png)  
+![Top Crime Types](results/crime_types.png)  
+
+---
+
+## 📂 Data Source
+Street-level crime data from [UK Police Data](https://data.police.uk/data/) using **Custom Download**:  
+- Date range: **July 2022 → June 2025**  
+- Force: **Merseyside Police**  
 
 ---
 
