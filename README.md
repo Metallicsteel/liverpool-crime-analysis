@@ -2,6 +2,7 @@
 
 This repository presents an **end-to-end analysis** of Liverpool crime data (Merseyside Police).  
 It includes a Jupyter notebook, visualizations, an interactive map, and a professional PDF report.
+- 📄 [Liverpool Crime Analysis Report (2022–2025)](Liverpool_Crime_Analysis_Report_2022_2025.pdf)
 
 ---
 
